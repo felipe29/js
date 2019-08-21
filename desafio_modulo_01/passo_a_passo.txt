@@ -1,0 +1,7 @@
+yarn init 
+yarn add nodemon -D
+yarn add express
+Obter o objeto do express com o require
+chamar a funcao do express "Express()" e armazenar o resultado em uma constante (server)
+na constante server adicionar um server.use(express.json()) para o express obter o JSON do body
+
